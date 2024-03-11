@@ -2,7 +2,7 @@
 
 ## University of Auckland
 
-This repository has been setup to support my work as a student in **STATS220** at the University of Auckland. I am currently working on the course's first project, which includes:
+This repository has been set up to support my work as a student in **STATS220** at the University of Auckland. I am currently working on the course's first project, which includes:
 1. Setting up this GitHub page and repository.
 2. Creating and animating a meme in RStudio.
 3. Writing and submitting a report on the above using R Markdown.
